@@ -1,0 +1,288 @@
+[[Gama]]
+arch = "aarch64"
+git-tree-sha1 = "f10404d550a077f8d836dc835fde66fa9e1cba06"
+os = "macos"
+
+    [[Gama.download]]
+    sha256 = "e403ade147e8658de6e8d1919de6510fc81f021d00cef2e53be82f88439d5c16"
+    url = "https://github.com/JuliaBinaryWrappers/Gama_jll.jl/releases/download/Gama-v2.16.0+0/Gama.v2.16.0.aarch64-apple-darwin.tar.gz"
+[[Gama]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e900e49dbbf35f24dba5851d7b65609f69830465"
+libc = "glibc"
+os = "linux"
+
+    [[Gama.download]]
+    sha256 = "fd64a784c90cfa1ba99ddda6ef9250c8851b60d8385856fd8d997c7ad487e878"
+    url = "https://github.com/JuliaBinaryWrappers/Gama_jll.jl/releases/download/Gama-v2.16.0+0/Gama.v2.16.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[Gama]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3501555a24e442404dd6f58dd88d7e7c68aa3273"
+libc = "glibc"
+os = "linux"
+
+    [[Gama.download]]
+    sha256 = "c15e07e98abec111ff91a37160a4775f1d44116c0efd8beb52c2bdd19d89ce75"
+    url = "https://github.com/JuliaBinaryWrappers/Gama_jll.jl/releases/download/Gama-v2.16.0+0/Gama.v2.16.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[Gama]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f909dc11965e50c627ecf400787e4fc71ceac552"
+libc = "musl"
+os = "linux"
+
+    [[Gama.download]]
+    sha256 = "c064df2ab37f43835e9068a9d27874ee5b3e01a83a5231fcaa10c65d751c0b97"
+    url = "https://github.com/JuliaBinaryWrappers/Gama_jll.jl/releases/download/Gama-v2.16.0+0/Gama.v2.16.0.aarch64-linux-musl-cxx03.tar.gz"
+[[Gama]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "695d2b49e7b2e532913ebc84794eaadba714ba47"
+libc = "musl"
+os = "linux"
+
+    [[Gama.download]]
+    sha256 = "5d7b5186d2868c51587ad192d1d7cee78c3f6d3f6528a55a6a5feba76434db42"
+    url = "https://github.com/JuliaBinaryWrappers/Gama_jll.jl/releases/download/Gama-v2.16.0+0/Gama.v2.16.0.aarch64-linux-musl-cxx11.tar.gz"
+[[Gama]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "abe1c06fc2df0f1c6b97c777b4dc95e92eb59815"
+libc = "glibc"
+os = "linux"
+
+    [[Gama.download]]
+    sha256 = "f2f787911a5b8d0b423c8873c7b9bfad145b52a89613c6f0844ac833d0c39130"
+    url = "https://github.com/JuliaBinaryWrappers/Gama_jll.jl/releases/download/Gama-v2.16.0+0/Gama.v2.16.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[Gama]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9d774d33047944cb43513dfb252914e6a9c5a1cc"
+libc = "glibc"
+os = "linux"
+
+    [[Gama.download]]
+    sha256 = "a4e516b8172b6fb3128738aea4a97dba41cffed4805cd5fe5c655336c73e2026"
+    url = "https://github.com/JuliaBinaryWrappers/Gama_jll.jl/releases/download/Gama-v2.16.0+0/Gama.v2.16.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[Gama]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "30be5719606a66e06e6d481f197b89cf6ee064e4"
+libc = "musl"
+os = "linux"
+
+    [[Gama.download]]
+    sha256 = "a036cd0df005cdff5e59beee492210dc4a8e35405ce823b5333e8178ab9bd5ec"
+    url = "https://github.com/JuliaBinaryWrappers/Gama_jll.jl/releases/download/Gama-v2.16.0+0/Gama.v2.16.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[Gama]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "599f6751da3175c71c18a26a5f398136024f2dcb"
+libc = "musl"
+os = "linux"
+
+    [[Gama.download]]
+    sha256 = "1b6b25b34b937333e9fe3e6cfb3ff3186b4a6abd0f51002a6113f27b3b6225ad"
+    url = "https://github.com/JuliaBinaryWrappers/Gama_jll.jl/releases/download/Gama-v2.16.0+0/Gama.v2.16.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[Gama]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5d040fda5b70eaf5b24128f8dcac0d10cf60ed88"
+libc = "glibc"
+os = "linux"
+
+    [[Gama.download]]
+    sha256 = "45f51b338ccac98ab3bfb8509f6f9ad5df1b1edc85c033363fb72c3fbca5fdae"
+    url = "https://github.com/JuliaBinaryWrappers/Gama_jll.jl/releases/download/Gama-v2.16.0+0/Gama.v2.16.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Gama]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "39ee89ced601513190c325774aa1f100f6beb572"
+libc = "glibc"
+os = "linux"
+
+    [[Gama.download]]
+    sha256 = "7bea9e176f775c12873521641be2a2b659a831dac87b118acefb8c20d724b9a4"
+    url = "https://github.com/JuliaBinaryWrappers/Gama_jll.jl/releases/download/Gama-v2.16.0+0/Gama.v2.16.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Gama]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5bb20eecbc686a5daaab08c32514cfc3332e2f59"
+libc = "musl"
+os = "linux"
+
+    [[Gama.download]]
+    sha256 = "87d291ddfb10b8ecebcccc1529a99f05b1da792ca4aef485df7ddd352a329a0f"
+    url = "https://github.com/JuliaBinaryWrappers/Gama_jll.jl/releases/download/Gama-v2.16.0+0/Gama.v2.16.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[Gama]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e175437d50cdca60592e2894556e91f0a9cb8951"
+libc = "musl"
+os = "linux"
+
+    [[Gama.download]]
+    sha256 = "f75d3d66be753bcffc0178e7612e31f76c0f6e9aaf56964080a5873d5f2617bc"
+    url = "https://github.com/JuliaBinaryWrappers/Gama_jll.jl/releases/download/Gama-v2.16.0+0/Gama.v2.16.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Gama]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a0fa445420f3ff0e8c3e1e2829d7b51282c6253c"
+libc = "glibc"
+os = "linux"
+
+    [[Gama.download]]
+    sha256 = "81d82621b761007ed17664199b71fe63cec36d081116cd3b70e6957977722812"
+    url = "https://github.com/JuliaBinaryWrappers/Gama_jll.jl/releases/download/Gama-v2.16.0+0/Gama.v2.16.0.i686-linux-gnu-cxx03.tar.gz"
+[[Gama]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "21f597f97a67812522ecdee8f70bc8dbcd9841aa"
+libc = "glibc"
+os = "linux"
+
+    [[Gama.download]]
+    sha256 = "8b6b340a62ef624a8a6e2a3b6afae86de5d5c14af883911cb62e51998abffdca"
+    url = "https://github.com/JuliaBinaryWrappers/Gama_jll.jl/releases/download/Gama-v2.16.0+0/Gama.v2.16.0.i686-linux-gnu-cxx11.tar.gz"
+[[Gama]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "36cf00efe1c273c2a46df5595bf5b15d46f4de62"
+libc = "musl"
+os = "linux"
+
+    [[Gama.download]]
+    sha256 = "162720dd35d37d95aecb5c207f20377b1ff47b24f90d5dfd5bd5b9f5ba972d73"
+    url = "https://github.com/JuliaBinaryWrappers/Gama_jll.jl/releases/download/Gama-v2.16.0+0/Gama.v2.16.0.i686-linux-musl-cxx03.tar.gz"
+[[Gama]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8647b8ca66ee62cf5d12e99164f54b40dbefa957"
+libc = "musl"
+os = "linux"
+
+    [[Gama.download]]
+    sha256 = "cc037da0cc6c101fb33f28e425657ebe70f6af718111761a559a4fd13804cab7"
+    url = "https://github.com/JuliaBinaryWrappers/Gama_jll.jl/releases/download/Gama-v2.16.0+0/Gama.v2.16.0.i686-linux-musl-cxx11.tar.gz"
+[[Gama]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fb41838dd35c1f6ab5b02e3dd36826cb590b3d52"
+os = "windows"
+
+    [[Gama.download]]
+    sha256 = "1fd6040333fda661f7b29721530f5e7740949b57449917f2d4a92bc3b044964c"
+    url = "https://github.com/JuliaBinaryWrappers/Gama_jll.jl/releases/download/Gama-v2.16.0+0/Gama.v2.16.0.i686-w64-mingw32-cxx03.tar.gz"
+[[Gama]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5645d91c919d958f6623a307159a5cdf8c0f80c0"
+os = "windows"
+
+    [[Gama.download]]
+    sha256 = "dad1eb43d376c195f8fd1bac96d371dfbf168018e71b9cfd631f32de26753dce"
+    url = "https://github.com/JuliaBinaryWrappers/Gama_jll.jl/releases/download/Gama-v2.16.0+0/Gama.v2.16.0.i686-w64-mingw32-cxx11.tar.gz"
+[[Gama]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c59ac2bb72b6c43387d12107d9039e338bbe8029"
+libc = "glibc"
+os = "linux"
+
+    [[Gama.download]]
+    sha256 = "62d7579552fc56e961c813f19da503cbb6bc281d310d101de50b54aa18344353"
+    url = "https://github.com/JuliaBinaryWrappers/Gama_jll.jl/releases/download/Gama-v2.16.0+0/Gama.v2.16.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Gama]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cb683302753583ef3aeccf3cd2ca47e25d002280"
+libc = "glibc"
+os = "linux"
+
+    [[Gama.download]]
+    sha256 = "64c3c74804ccaf28f5100c5e3106fc6d13dd067537887d74d3683523ae3b8c95"
+    url = "https://github.com/JuliaBinaryWrappers/Gama_jll.jl/releases/download/Gama-v2.16.0+0/Gama.v2.16.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Gama]]
+arch = "x86_64"
+git-tree-sha1 = "fddf05bef4f8357b9b1e6065d42a0cfd6d8b00a1"
+os = "macos"
+
+    [[Gama.download]]
+    sha256 = "e80871adb51c99cf3e2f8ae6665b96588854952110c8804b80c776f2761b0694"
+    url = "https://github.com/JuliaBinaryWrappers/Gama_jll.jl/releases/download/Gama-v2.16.0+0/Gama.v2.16.0.x86_64-apple-darwin.tar.gz"
+[[Gama]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c6c4ff19c35e53d07cd66726bb113af1e465f216"
+libc = "glibc"
+os = "linux"
+
+    [[Gama.download]]
+    sha256 = "ab85123b53f35a5a005618213c6545c06f82178a72aa68dd154c9379c7d31ee3"
+    url = "https://github.com/JuliaBinaryWrappers/Gama_jll.jl/releases/download/Gama-v2.16.0+0/Gama.v2.16.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[Gama]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bbf75926542f04048ff430f5e2846b8db68cf109"
+libc = "glibc"
+os = "linux"
+
+    [[Gama.download]]
+    sha256 = "9e5a384b08c734a008ca9bf2833fe666c318f37fed1c1e0df22416da1513e0d3"
+    url = "https://github.com/JuliaBinaryWrappers/Gama_jll.jl/releases/download/Gama-v2.16.0+0/Gama.v2.16.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[Gama]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "dd7cb2f2840666362591bdbdee62cd5407c3b938"
+libc = "musl"
+os = "linux"
+
+    [[Gama.download]]
+    sha256 = "3979781ec8706b8baced34e30ab522ed73975148839e69f0433f22ac5cc64af5"
+    url = "https://github.com/JuliaBinaryWrappers/Gama_jll.jl/releases/download/Gama-v2.16.0+0/Gama.v2.16.0.x86_64-linux-musl-cxx03.tar.gz"
+[[Gama]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c886d15cf950bc53431ae2e9ba776d4fa6566965"
+libc = "musl"
+os = "linux"
+
+    [[Gama.download]]
+    sha256 = "bbccd6b54fe199a0983e3160f9b7faf03c0fddbeb8c4a11bf51c0b42b024eb21"
+    url = "https://github.com/JuliaBinaryWrappers/Gama_jll.jl/releases/download/Gama-v2.16.0+0/Gama.v2.16.0.x86_64-linux-musl-cxx11.tar.gz"
+[[Gama]]
+arch = "x86_64"
+git-tree-sha1 = "721d4ce75ce229f51a4f89064c6beac4c8cce550"
+os = "freebsd"
+
+    [[Gama.download]]
+    sha256 = "979edfef89ed74d53a88f07552ae64d5feca794c6b597e3cd1a4106d2d5b7de1"
+    url = "https://github.com/JuliaBinaryWrappers/Gama_jll.jl/releases/download/Gama-v2.16.0+0/Gama.v2.16.0.x86_64-unknown-freebsd.tar.gz"
+[[Gama]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a408c690b9f4cc6aec26b126d69dec528df2bbf8"
+os = "windows"
+
+    [[Gama.download]]
+    sha256 = "1a11bbce0f250404700e000e0230cdc3de17da7b717b9bc29e9bef04db713b2c"
+    url = "https://github.com/JuliaBinaryWrappers/Gama_jll.jl/releases/download/Gama-v2.16.0+0/Gama.v2.16.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[Gama]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c5cc6d17359b005e061031bafce5e8fced84366a"
+os = "windows"
+
+    [[Gama.download]]
+    sha256 = "51e0dbc76aff8721c1276ed1801ae5bae22911db11748adb6ca321eab1dcf602"
+    url = "https://github.com/JuliaBinaryWrappers/Gama_jll.jl/releases/download/Gama-v2.16.0+0/Gama.v2.16.0.x86_64-w64-mingw32-cxx11.tar.gz"
